@@ -1,6 +1,7 @@
-# Tareas y ejercicios
+# Tareas y ejercicios Sección 2 Profesor Sergio Majluf
 
 ## Calendario de entregas Programación (DIC122)
+
 
 « volver [al inicio](https://github.com/sergiomajluf/Programacion-20172S2)
 
@@ -11,7 +12,7 @@
 
 
 * **02 Ejercicio**
-  **Nombre del Ejercicio**
+  **de lo simple a lo complejo a lo simple**
   Martes 29 de Agosto, 08:00AM
   Subir archivos [en esta carpeta Dropbox](https://www.dropbox.com/request/AADEvcLIqypxGU3EaaoG)
 
@@ -22,19 +23,18 @@
   Subir archivos [en esta carpeta Dropbox](https://www.dropbox.com/request/EIkqPb9Uk7enP8oH4OI5)
 
 * **04 Ejercicio**
-  **Por Definir**
+  **Por definir**
   Martes 12 de Septiembre, 08:00AM
-  Subir archivos [en esta carpeta Dropbox
+  Subir archivos en esta carpeta Dropbox
 
 
 * **05 Tarea**
-  **OOP**
+  **OOP por definir**
   Martes 26 de Septiembre, 08:00AM
-  Subir archivos [en esta carpeta Dropbox
+  Subir archivos en esta carpeta Dropbox
 
 * **06 EXAMEN**
-  **OOP**
+  **Por definir**
   Martes 03 de Septiembre, 08:00AM
-  Subir archivos [en esta carpeta Dropbox
-
+  Subir archivos en esta carpeta Dropbox
 
