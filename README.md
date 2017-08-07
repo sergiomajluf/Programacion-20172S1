@@ -77,8 +77,6 @@ La Nota de Presentación a Examen corresponde al 70% de la nota final del ramo, 
 
 En la mayoría de las clases existirá un "Desafío", que busca desarrollar habilidades para conocimientos técnicos específicos. Estas no serán calificadas, pero son utulizadas para la evaluación por competencias.
 
-#### Participación y proactividad
-* Calificación: **10%** (del 70% nota final)
 * Se observará la participación en clases, el nivel de aporte a la clase y la colaboración con compañeros.
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al propio trabajo y al de sus pares.
 
