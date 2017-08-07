@@ -1,6 +1,6 @@
-# Contenidos Programación (DIC122) -  
+# Contenidos del Curso  
 
-### Profesor Sergio Majluf 
+### Programación (DIC122) - Profesor Sergio Majluf 
 
 « volver [al inicio](https://github.com/sergiomajluf/Programacion-20172S2)
 
@@ -32,10 +32,9 @@
     2.Interacción
 
 
-###UNIDAD 3: PROGRAMACIÓN EN OTROS CONTEXTOS
-1.	Obteniendo datos desde la Web
-   2.Software de Ilustración / Animación
-    3.Programación en el mundo físico
+###UNIDAD 3: PROGRAMACIÓN ORIENTADA A OBJETOS
+1.	Cambio de paradigma en la manera de programar 
+2.	Diseñar prototipos (clases) replicables, modificables y parametrizables 
 
 
 ## Planificación Semanal

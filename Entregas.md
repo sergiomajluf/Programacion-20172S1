@@ -1,20 +1,8 @@
-# Programación (DIC122)
+# Tareas y ejercicios
 
-## Calendario de clases
+## Calendario de entregas Programación (DIC122)
 
-* Martes 08 de Agosto, 08:30AM a 11:20, Lab 25
-* **Martes 15 de Agosto FERIADO**
-* Martes 22 de Agosto, 08:30AM a 11:20, Lab 25
-* Martes 29 de Agosto, 08:30AM a 11:20, Lab 25
-* Martes 05 de Septiembre, 08:30AM a 11:20, Lab 25
-* Martes 12 de Septiembre, 08:30AM a 11:20, Lab 25
-* **Martes 19 de Septiembre FERIADO**
-* Martes 26 de Septiembre, 08:30AM a 11:20, Lab 25
-* Martes 03 de Octubre, 08:30AM a 11:20, Lab 25
-
-
-
-## Calendario de entregas
+« volver [al inicio](https://github.com/sergiomajluf/Programacion-20172S2)
 
 * **01 Tarea**
   **clonArte**
@@ -48,4 +36,5 @@
   **OOP**
   Martes 03 de Septiembre, 08:00AM
   Subir archivos [en esta carpeta Dropbox
+
 

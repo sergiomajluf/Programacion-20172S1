@@ -1,9 +1,9 @@
-### Programacion
-*« volver [al inicio](https://github.com/sergiomajluf/programacion)*
+### Programación 2017 Segundo semestre
+*« volver [al inicio](https://github.com/sergiomajluf/Programacion-20172S2)*
 
 ---
 
-# Semana 01
+# Clase 01 » 08 de Agosto
 
 
 * Introducción y Conceptos [ver **Google Slides**](https://docs.google.com/presentation/d/1uFzA7Uepdj7WNc9DaTgL1FoXEYQxNkMi7dUnVr63pWY/edit?usp=sharing)
@@ -36,16 +36,24 @@ ___
 
 ## Video sugerido
 * [Hello Processing](http://hello.processing.org)
+
 * [Hello World!](https://vimeo.com/60731302)
-* Más referentes:
- * [SUPERFICIE - MIGUEL NÓBREGA](https://vimeo.com/143076578) 
- * [LIGHT KINETICS - ESPADAYSANTACRUZ](https://vimeo.com/149774067)
- * [THE PATHFINDER - CHRISTIAN LOCLAIR](https://vimeo.com/111361109)
- * [CITY FLOWS - TILL NAGEL & CHRISTOPHER PIETSCH](https://vimeo.com/173787508)
 
-# Entrega 01: Apropiación creativa
+  ​
 
-Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de  400x400 pixeles, utilizando estas funciones:
+  #### Más referentes:
+
+* [SUPERFICIE - MIGUEL NÓBREGA](https://vimeo.com/143076578) 
+
+* [LIGHT KINETICS - ESPADAYSANTACRUZ](https://vimeo.com/149774067)
+
+* [THE PATHFINDER - CHRISTIAN LOCLAIR](https://vimeo.com/111361109)
+
+* [CITY FLOWS - TILL NAGEL & CHRISTOPHER PIETSCH](https://vimeo.com/173787508)
+
+# Entrega 01: clonArte
+
+Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de  400x400 pixeles, utilizando estas funciones, entre otras:
 
 	* background()
 	* stroke()
@@ -58,10 +66,10 @@ Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una 
 	* arc()
 
 **Formato de entrega:**
-crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
+Crear un archivo comprimido `[apellido-nombre].zip` conteniendo la carpeta del sketch. Recuerda **incluir la imagen de referencia**.
 
 **Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/Fp9QpiRDk2g7dGzTsJQc) antes de las 08:00 del martes 11 de Octubre, previo al curso.
+Ver [calendario de Entregas](https://github.com/sergiomajluf/Programacion-20172S2/blob/master/Entregas.md) para fechas y carpeta de subida en Dropbox
 
 **Evaluación:**
 Entregas tardías bajan 1 puntos.
