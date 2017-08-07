@@ -7,7 +7,7 @@ Las secciones vigentes ofrecidas este semestre, **junto a sus calendarizaciones,
 
 
 1. [Sección Troncoso](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
-2. [Sección Majluf](https://github.com/sergiomajluf/Programacion-20172S2) - profesor Sergio **Majluf**
+2. [Sección Majluf](https://github.com/sergiomajluf/Programacion-20172S2) - profesor Sergio **Majluf** <-- esta sección
 3. [Sección Zamorano](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco **Zamorano**
 
 
@@ -17,7 +17,7 @@ En este curso que se dicta en el ciclo de Bachillerato y pertenece a la línea '
 
 El programa oficial de la asignatura puede ser [descargado en este PDF](https://github.com/disenoudd/Programacion-DIC122/raw/master/DIC122_Programaci%C3%B3n.pdf).
 
-Contenidos del programas disponibles en [esta página](https://github.com/sergiomajluf/Programacion-20172S2/Contenidos.md)
+Los **contenidos detallados del programa** están disponibles en [esta página](https://github.com/sergiomajluf/Programacion-20172S2/Contenidos.md).
 
 
 
