@@ -9,6 +9,7 @@
 * Variaciones de`mouseX, mouseY, pmouseX, pmouseY`
 * Eventos de mouse
 * Eventos de teclado
+* Intro a Modo de color HSB
 * Funciones:
   - Funciones: qué son, por qué son útiles, funciones con return y sin return
   - Crear una función propia
