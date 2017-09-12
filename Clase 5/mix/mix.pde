@@ -6,7 +6,7 @@ Sergio Majluf
 
 int cols, filas, radio, margen;
 float counter;
-int[] angulos = new int[300];
+int[] angulos = new int[360];
 
 void setup() {
   size(600, 400);
@@ -16,7 +16,7 @@ void setup() {
   margen = 60;
 
   for(int i=0; i< angulos.length; i++){
-    angulos[i] = int(random(300));
+    angulos[i] = i;
   }
 
   //colorMode(HSB);
@@ -35,9 +35,11 @@ void draw() {
   */
 
   counter = map(mouseX, 0, width, 0, 360);
+  radio = int(map(mouseY, 0, height, 10, 80));
 
   for (int x=0; x< cols; x++) {
     for (int y=0; y< filas; y++) {
+      int leewy = int(random(1,4));
       relojito(x*margen, y*margen, radio, angulos[x]+counter);
     }
   }
@@ -56,6 +58,7 @@ void relojito(float _x, float _y, float _r, float _a) {
   float px = cos(radians(_a)) * _r/2;
   float py = sin(radians(_a)) * _r/2;
 
+  fill(240);
   ellipse(_x,_y,_r,_r);
   line(_x,_y, px+_x, py+_y);
 }

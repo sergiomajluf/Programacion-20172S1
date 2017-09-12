@@ -22,7 +22,7 @@ Sergio Majluf
 
 int cols, filas, radio, margen;
 float counter;
-int[] angulos = new int[300];
+int[] angulos = new int[360];
 
 public void setup() {
   
@@ -32,7 +32,7 @@ public void setup() {
   margen = 60;
 
   for(int i=0; i< angulos.length; i++){
-    angulos[i] = PApplet.parseInt(random(300));
+    angulos[i] = i;
   }
 
   //colorMode(HSB);
@@ -51,9 +51,11 @@ public void draw() {
   */
 
   counter = map(mouseX, 0, width, 0, 360);
+  radio = PApplet.parseInt(map(mouseY, 0, height, 10, 80));
 
   for (int x=0; x< cols; x++) {
     for (int y=0; y< filas; y++) {
+      int leewy = PApplet.parseInt(random(1,4));
       relojito(x*margen, y*margen, radio, angulos[x]+counter);
     }
   }

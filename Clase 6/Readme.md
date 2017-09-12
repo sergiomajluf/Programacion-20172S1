@@ -4,7 +4,7 @@
 
 ------
 
-# Clase 06 » 19 de Septiembre
+# Clase 06 » 12 de Septiembre
 * `OOP` Introducción a la Programación Orientada a Objetos
 * Arrays en el contexto de OOP
 
@@ -12,7 +12,7 @@
 * Strings
 
 * Animación y dibujos radiales
-* sin/cos
+* ~~sin/cos~~
 * Incorporación de Imágenes y Fuentes
 * Hablaremos sobre el Examen, forma de trabajo en clases restantes y pre-entregas
 
@@ -25,10 +25,36 @@
   https://www.youtube.com/watch?v=5eMSPtm6u5Y
 
 
+
+# Ejercicio 02:  sistema de **funciones y arrays, tipo e imagen**
+
+**Ejercitar 4 composiciones visuales** y en cada una explorar diferentes variantes a partir del uso imágenes, tipografías y que se sustente en lo aprendido hasta ahora en el curso. Tamaño de 400x400 pixeles.
+
+Revisar estas [referencuas formales](https://es.pinterest.com/pin/700098704543368939/?lp=true) para iniciar la exploración.
+
+Recuerden comentarios de apertura, en línea al código, formato en nombre de archivo, y por sobre todo, expresividas plástica.
+
+```
+* PImage
+* PFont
+* Array
+* For Loops
+* Eventos, etc.
+```
+
+**Formato de entrega:** crear cada una de las cuatro composiciones en su respectiva carpeta. Agruparlas todas bajo una única carpeta llamada "apellido-nombre", enviándola un archivo comprimido `[apellido-nombre].zip`
+
+**Dónde entregar:** Hasta el viernes 15 de Septiembre a las 23:59, en este link de [DROPBOX](https://www.dropbox.com/request/b7oR3sbJ9ZqZk7xIlGW5)
+
+**Evaluación:** Entregas tardías bajan 1 puntos.
+
+
+
+
 ## Para las próximas semanas
-### Examen: Sistema Parametrico Interactivo
-* Inicio: Semana 06
-* Entrega Final : Semana 09
+### Se inicia Sistema Paramétrico Interactivo
+* Inicio: Clase 06
+* Entrega Final : Clase 08
 * Calificación: **30%** (del 100% calificación final del curso)
 
 #### Descripción
@@ -37,7 +63,7 @@
 * El sistema debe integrar interacción, y dicha interacción deberá ser parametrizada también, es decir, cada ente debe reaccionar de forma única y distinta al resto de sus pares.
 
 #### Etapas de Entrega:
-**Semana 07: Anteproyecto**
+**Clase 07: Anteproyecto**
 - Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.
 - La presentación debe incluir:
   - Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.
@@ -48,14 +74,14 @@
 
     ​
 
-**Semana 08: Avances**
+**Ayudantía 08: Avances**
 - Cada alumno presentará (en 3 minutos máximo) el estado de avance del proyecto.
 - La presentación debe incluir:
   - Mostrar lo que se ha programado hasta este momento.
   - Qué cambió o evolucionó desde la semana pasada?
   - Qué se pretende hacer en la semana restante?
 
-**Semana 09: Final**
+**Clase 08: Final**
 - Presentación colectiva. Se hará a modo de ¨feria expositiva¨, donde el sketch de c/u estará disponible a ser usado en cualquier minuto.
 - Cada alumno presentará a la clase brevemente sobre su trabajo.
 
