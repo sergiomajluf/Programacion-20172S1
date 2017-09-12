@@ -17,10 +17,11 @@
   * [Bret Victor: stop drawing dead fish](https://vimeo.com/64895205)
   * [JOHN WHITNEY - CATALOG](https://www.youtube.com/watch?v=TbV7loKp69s)
   * [JOHN WHITNEY - PERMUTATIONS ](https://www.youtube.com/watch?v=kdYxJ85RSds)
-  * [JOHN WHITNEY - Talking about his Animation Machine (https://www.youtube.com/watch?v=kdYxJ85RSds)]
+  * [JOHN WHITNEY - Talking about his Animation Machine](https://www.youtube.com/watch?v=kdYxJ85RSds) 
+  * [JOHN WHITNEY - Analog Computer](  https://www.youtube.com/watch?v=5eMSPtm6u5Y)
 
 
-  https://www.youtube.com/watch?v=5eMSPtm6u5Y
+
 
 
 
