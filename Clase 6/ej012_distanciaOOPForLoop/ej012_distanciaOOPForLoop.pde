@@ -19,7 +19,7 @@ void draw() {
 void mousePressed() {
   pelotita_3.miColor = color(random(100), random(150), random(255));
 /*
-float distancia = dist(mouseX, mouseY, posX, posY); //<>// //<>//
+float distancia = dist(mouseX, mouseY, posX, posY); //<>// //<>// //<>//
   if (distancia < diam/2) {
     //estoy sobre el CENTRO de la ellipse
     println("dentro");
