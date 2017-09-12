@@ -6,13 +6,18 @@
 
 # Clase 06 » 12 de Septiembre
 * `OOP` Introducción a la Programación Orientada a Objetos
+* Incorporación de Imágenes y Fuentes
 * Arrays en el contexto de OOP
 * Arraylists
 * Strings
 * Animación y dibujos radiales
 * ~~sin/cos~~
-* Incorporación de Imágenes y Fuentes
-* Hablaremos sobre el Examen, forma de trabajo en clases restantes y pre-entregas
+
+
+
+
+Hablaremos también sobre el Examen, forma de trabajo en clases restantes y pre-entregas
+
 * **Referentes:**
   * [Bret Victor: stop drawing dead fish](https://vimeo.com/64895205)
   * [JOHN WHITNEY - CATALOG](https://www.youtube.com/watch?v=TbV7loKp69s)
@@ -29,7 +34,7 @@
 
 **Ejercitar 4 composiciones visuales** y en cada una explorar diferentes variantes a partir del uso imágenes, tipografías y que se sustente en lo aprendido hasta ahora en el curso. Tamaño de 400x400 pixeles.
 
-Revisar estas [referencuas formales](https://es.pinterest.com/pin/700098704543368939/?lp=true) para iniciar la exploración.
+Revisar estas [referencias formales](https://es.pinterest.com/pin/700098704543368939/?lp=true) para iniciar la exploración.
 
 Recuerden comentarios de apertura, en línea al código, formato en nombre de archivo, y por sobre todo, expresividas plástica.
 
