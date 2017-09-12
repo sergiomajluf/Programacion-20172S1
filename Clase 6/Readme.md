@@ -7,16 +7,14 @@
 # Clase 06 » 12 de Septiembre
 * `OOP` Introducción a la Programación Orientada a Objetos
 * Arrays en el contexto de OOP
-
 * Arraylists
 * Strings
-
 * Animación y dibujos radiales
 * ~~sin/cos~~
 * Incorporación de Imágenes y Fuentes
 * Hablaremos sobre el Examen, forma de trabajo en clases restantes y pre-entregas
-
 * **Referentes:**
+  * [Bret Victor: stop drawing dead fish](https://vimeo.com/64895205)
   * [JOHN WHITNEY - CATALOG](https://www.youtube.com/watch?v=TbV7loKp69s)
   * [JOHN WHITNEY - PERMUTATIONS ](https://www.youtube.com/watch?v=kdYxJ85RSds)
   * [JOHN WHITNEY - Talking about his Animation Machine (https://www.youtube.com/watch?v=kdYxJ85RSds)]
