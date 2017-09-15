@@ -1,5 +1,16 @@
 # Programación 2017 - Semana 07
+#### Descripción EXAMEN
+
+- Sistema Paramétrico que permita la generación de múltiples entes. El sistema definirá las reglas básicas y a través de modificación manual o automática de parámetros, cada ente será único en su diseño.
+- Se podrá tomar inspiración de la naturaleza (ej. mariposas) o de sistemas sintéticos (ej. arquitectura), pero la idea es que la composición final sea lo más atractiva e interesante posible desde un punto de vista estético.
+- El sistema debe integrar interacción, y dicha interacción deberá ser parametrizada también, es decir, cada ente debe reaccionar de forma única y distinta al resto de sus pares.
+
+
+
+Se evaluarán tanto los aspectos formales desarrollados a lo largo del curso – orden y claridad del código, comentarios, uso de variables y funciones, etc – como también la comprensión y dominio del alumno respecto de los códigos generados.
+
 ## Contenido de Hoy
+
 * Cada alumno presenta en 2 minutos acerca de su proyecto de Examen
 * Trabajo práctico en Examen
 

@@ -21,8 +21,8 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 
 
 
-## Calendario de clases Sección #2
-
+## Calendario de clases Sección #1
+(Segundo semestre, primer bimestre)
 - Martes 08 de Agosto, 08:30AM a 11:20, Lab 25
 - **Martes 15 de Agosto FERIADO**
 - Martes 22 de Agosto, 08:30AM a 11:20, Lab 25
@@ -31,14 +31,14 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 - Martes 12 de Septiembre, 08:30AM a 11:20, Lab 25
 - **Martes 19 de Septiembre FERIADO**
 - Martes 26 de Septiembre, 08:30AM a 11:20, Lab 25
-- Martes 03 de Octubre, 08:30AM a 11:20, Lab 25
+- Martes 03 de Octubre, 08:30AM a 11:20, Lab 25 - **Examen**
 
 
 ###### Se coordinará una clase de recuperación junto al curso en fecha por definir.
 
 
 ## Calendario de clases Sección #3
-
+(Segundo semestre, segundo bimestre)
 - 10 de Octubre Primera Clase
 - 17 de Octubre
 - 24 de Octubre
