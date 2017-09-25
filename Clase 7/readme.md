@@ -37,7 +37,7 @@ Durante la clase de hoy, y la ayudantía de esta semana, se trabajará en el des
 - Crear una composición visual, lo más acabada, desarrollada y fina posible. Debe tener múltiples elementos que conformen una composición mayor. No basta con dibujar una composición, sino que esta debe tener un orden matemático que sea claramente visible y eso es lo que la haga interesante.
 - Debe incorporar y combinar adecuadamente los elementos aprendidos durante el curso, entre ellos: dibujo, iteración, eventos, imágenes, tipografía, entre otros.
 - La composición debe tener interacción con mouse y al menos 3 teclas.
-- El poster se diagrama usando esta plantilla (Adobe Illustrator)
+- El poster se diagrama usando [esta plantilla](Programacion-20172S1/Clase 7/lamina-plantilla-examen.ai) (Adobe Illustrator)
 
 #### Entrega de Archivos y Afiche impreso
 
