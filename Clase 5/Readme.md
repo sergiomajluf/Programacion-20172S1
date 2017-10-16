@@ -4,14 +4,13 @@
 
 ------
 
-# Clase 05 » 05 de Septiembre
+# Clase 05 » 14 de Noviembre
 * Repaso Funciones
-* Repaso a Modo de color HSB
 * Arrays
   * Arrays unidimensionales
   * Arrays y For Loops
   * Arrays bidimensionales
-  * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
+* Arraylist(), IntList(), FloatList(), StringList()
 
 
 

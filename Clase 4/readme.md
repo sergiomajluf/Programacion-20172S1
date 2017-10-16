@@ -4,8 +4,9 @@
 
 ------
 
-# Clase 04 » 29 de Agosto
+# Clase 04 » 07 de Noviembre
 
+* Revisión Ejercicio 02
 * Variaciones de`mouseX, mouseY, pmouseX, pmouseY`
 * Eventos de mouse
 * Eventos de teclado
@@ -20,26 +21,35 @@
 
 
 
-## Video sugerido
+## Video obligatorio
 
-* [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales) Este contenido requiere crear una cuenta gratuita en Acamica.com
+* [Arrays I](https://www.acamica.com/clases/387/programacion-creativa-con-processing/arrays)
+* [Arrays II](https://www.acamica.com/clases/406/programacion-creativa-con-processing/arrays-ii) 
+  Este contenido requiere crear una cuenta gratuita en Acamica.com
 
 
 
 
-# Ejercicio 01:  **de lo simple a lo complejo a lo simple**
+# Ejercicio 03:  cuatro composiciones
 
-Completar durante la clase una composición gráfica, tamaño de 800x600 pixeles, donde se utilicen creativamente:
+**Ejercitar 4 composiciones visuales** y en cada una explorar diferentes variantes a partir del uso imágenes, tipografías y que se sustente en lo aprendido hasta ahora en el curso. Tamaño de 600x600 pixeles.
+
+Revisar estas [referencias formales](https://es.pinterest.com/pin/700098704543368939/?lp=true) para iniciar la exploración.
+
+Recuerden comentarios de apertura, en línea al código, formato en nombre de archivo, y por sobre todo, expresividas plástica.
 
 ```
-* variables
-* parámetros
-* estructura if/else
-* Al menos 1 evento de mouse y 1 evento de teclado
+* PImage
+* PFont
+* Array
+* For Loops
+* Eventos, etc.
 ```
 
-**Formato de entrega:** crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
+**Formato de entrega:** crear cada una de las cuatro composiciones en su respectiva carpeta. Agruparlas todas bajo una única carpeta llamada "apellido-nombre", enviándola un archivo comprimido `[apellido-nombre].zip`
 
-**Dónde entregar:** Ver [calendario de Entregas](https://github.com/sergiomajluf/Programacion-20172S2/blob/master/Entregas.md) para fechas y carpeta de subida en Dropbox
+**Dónde entregar:**
+Ver [calendario de Entregas](https://github.com/sergiomajluf/Programacion-Diseno-UDD/blob/master/Entregas.md) para fechas y carpeta de subida en Dropbox
 
 **Evaluación:** Entregas tardías bajan 1 puntos.
+

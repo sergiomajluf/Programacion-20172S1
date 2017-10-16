@@ -24,13 +24,14 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 
 ## Calendario de clases Sección #2
 (Segundo semestre, segundo bimestre)
-- 10 de Octubre - "semana 9"
 - **17 de Octubre - Primera Clase**
-- 24 de Octubre
+- 24 de Octubre - **Entrega ClonArte**
 - 31 de Octubre
-- 7 de Noviembre
-- 14 de Noviembre
+- 7 de Noviembre - **Entrega de lo simple a lo complejo a lo simple**
+- 14 de Noviembre - **Entrega 4 composiciones**
+- 16 de Noviembre **(¡jueves!)**
 - 21 de Noviembre
+- 23 de Noviembre **(¡jueves!)**
 - 28  de Noviembre **Examen**
 
 

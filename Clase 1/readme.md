@@ -3,17 +3,24 @@
 
 ---
 
-# Clase 01 » 08 de Agosto
+# Clase 01 » 17 de Octubre
 
 
 * Introducción y Conceptos [ver **Google Slides**](https://docs.google.com/presentation/d/1uFzA7Uepdj7WNc9DaTgL1FoXEYQxNkMi7dUnVr63pWY/edit?usp=sharing)
 * Pseudo Código
 * IDE de Processing
+* Cómo usar la Referencia
+
+
+
+
+
 * Sintáxis `lasFunciones(x,y);`
 * Comentarios `//comienzan con dobles slash`
 * Funciones de configuración `size(), background(), scale()`
-* Funciones de dibujo/forma
+* Funciones de dibujo/forma `point(), line(), rect(), ellipse(), triangle(), quad()`
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke()`
+* Modos de color
 
 
 ___

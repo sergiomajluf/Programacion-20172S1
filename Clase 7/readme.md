@@ -4,7 +4,7 @@
 
 ------
 
-# Clase 07 » 26 de Septiembre
+# Clase 07 » 21 de Noviembre
 
 #### Descripción EXAMEN
 
@@ -39,8 +39,8 @@
 - La entrega consiste en dos partes:
    1. Un Sketch de Processing Interactivo (carpeta comprimida y respectivo archivo `apellido_nombre.pde`)
    2. Un Afiche con imágenes del proyecto. El afiche se realizará en base a [esta plantilla](https://github.com/sergiomajluf/Programacion-20172S1/raw/master/Clase%207/lamina-plantilla-examen.ai) (Adobe Illustrator), y se entregará **tanto el archivo PDF como una versión impresa** del mismo.
-- Ambos archivos digitales se deben entregar al comenzar la clase en esta  [Carpeta de Dropbox](https://www.dropbox.com/request/TvXHoQ05BkQnVipB3OmN)
-- El Afiche estará exhibido/montado en la sala.
+- Ambos archivos digitales se deben entregar al comenzar la clase según link e  [calendario de Entregas](https://github.com/sergiomajluf/Programacion-Diseno-UDD/blob/master/Entregas.md)
+- El Afiche estará **exhibido/montado fuera de la sala**.
 
 
 
