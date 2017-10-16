@@ -1,8 +1,0 @@
-=====Instrucciones=====
-        MOVER
-a = Izquiera
-d = Derecha
-
-Click = Disparar
-
-=======================

@@ -1,4 +1,4 @@
-# Programación (DIC122)
+# Programación (DIC122) 2017 sección 2
 Programa y actividades de la asignatura Programación DIC122, de la Facultad de Diseño UDD
 
 Este repositorio contiene la **información general del curso**, que se dicta en diferentes semesteres y secciones.
@@ -6,9 +6,9 @@ Este repositorio contiene la **información general del curso**, que se dicta en
 Las secciones vigentes ofrecidas este semestre, **junto a sus calendarizaciones, evaluaciones y documentos específicos** son las siguientes:
 
 
-1. [Sección Troncoso](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
-2. [Sección Majluf](https://github.com/sergiomajluf/Programacion-20172S2) - profesor Sergio **Majluf** <-- esta sección
-3. [Sección Zamorano](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco **Zamorano**
+1. [Sección Troncoso](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás Troncoso
+2. **Sección Majluf - profesor Sergio Majluf « esta sección**
+3. [Sección Zamorano](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco Zamorano
 
 
 
@@ -21,26 +21,11 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 
 
 
-## Calendario de clases Sección #1
-(Segundo semestre, primer bimestre)
-- Martes 08 de Agosto, 08:30AM a 11:20, Lab 25
-- **Martes 15 de Agosto FERIADO**
-- Martes 22 de Agosto, 08:30AM a 11:20, Lab 25
-- Martes 29 de Agosto, 08:30AM a 11:20, Lab 25
-- Martes 05 de Septiembre, 08:30AM a 11:20, Lab 25
-- Martes 12 de Septiembre, 08:30AM a 11:20, Lab 25
-- **Martes 19 de Septiembre FERIADO**
-- Martes 26 de Septiembre, 08:30AM a 11:20, Lab 25
-- Martes 03 de Octubre, 08:30AM a 11:20, Lab 25 - **Examen**
 
-
-###### Se coordinará una clase de recuperación junto al curso en fecha por definir.
-
-
-## Calendario de clases Sección #3
+## Calendario de clases Sección #2
 (Segundo semestre, segundo bimestre)
-- 10 de Octubre Primera Clase
-- 17 de Octubre
+- 10 de Octubre - "semana 9"
+- **17 de Octubre - Primera Clase**
 - 24 de Octubre
 - 31 de Octubre
 - 7 de Noviembre
@@ -55,7 +40,7 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 Junto con los conocimientos introductorios al pensamiento computacional, este curso desarrolla en los estudiantes las habilidades o competencias de **Eficiencia**, **Observación y conceptualización** y **Dominio de Herramientas tecnológicas y procesos de producción**. El desarrollo de dichas competencias es parte del modelo educativo de la Facultad de Diseño.
 
 ## Formato y Duración
-* El curso se dicta a lo largo de 9 semanas.
+* El curso se dicta a lo largo de 7 semanas.
 * Previo a cada clase, los estudiantes deberán completar las lecturas (y revisión de material bibliográfico en video) asignados para cada sesión.
 * Durante cada sesión, se desarrollarán ejercicios prácticos.
 * A través de la discusión guiada y el análisis de dichos ejercicios, se desarrolla el aprendizaje.
@@ -67,15 +52,15 @@ Las evaluaciones se componen de:
 * Participación constante de cada estudiante
 * Examen Final
 
-Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su totalidad sumarán el 100% de la Nota de Presentación a Examen.
+Existirán al menos 3 diferentes evaluaciones calificadas durante el semestre.
 
-Un 10% de la nota de Presentación al Examen corresponde a Participación y Proactividad(ver más abajo)
+Se evaluará a lo largo del curso la Participación y Proactividad de cada estudiante, con un 10% de la nota de final.
 
 Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 
-La Nota de Presentación a Examen corresponde al 70% de la nota final del ramo, y el Examen corresponde al 30% restante.
+Las calificaciones descritas sumarán el 70% de la nota final del ramo, y el Examen corresponderá al 30% restante.
 
-En la mayoría de las clases existirá un "Desafío", que busca desarrollar habilidades para conocimientos técnicos específicos. Estas no serán calificadas, pero son utulizadas para la evaluación por competencias.
+Durante las clases podrá existir un "Desafío", que busca desarrollar habilidades para conocimientos técnicos específicos. Estas no serán calificadas, pero son utulizadas para la evaluación por competencias.
 
 * Se observará la participación en clases, el nivel de aporte a la clase y la colaboración con compañeros.
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al propio trabajo y al de sus pares.
@@ -87,11 +72,11 @@ El código con el que trabajaremos en el curso responde a la lógica de _[Códig
 Por la naturaleza de la asignatura y de Processing, el lenguaje de programación utilizado en el curso, los estudiantes encontrarán fácilmente referencias de códigos que podrán obtener de Internet, en diversas fuentes.
 
 El uso de estas fuentes está permitido, en tanto exista:
-* Una comprensión del estudiante respecto a qué función cumple, y cómo opera dicho código.
+* Una **comprensión del estudiante respecto a qué función cumple**, y cómo opera dicho código.
 * **Siempre** exista atribución a la fuente original de dicho material, eplicitado en el código mismo.
-* Apropriación responsable, el código usado debe haber sido modificado, remezclado lo suficienta para que no constituya un plagio.
+* **Apropriación responsable**, el código usado debe haber sido modificado, remezclado lo suficienta para que no constituya un plagio.
 
-La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/disenoudd/Programacion-DIC122/raw/master/INSTRUCTIVO_DE_INTEGRIDAD_ACADÉMICA_diseño_UDD.pdf) de la Facultad de Diseño.
+La práctica de **plagio no será tolerada y considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/disenoudd/Programacion-DIC122/raw/master/INSTRUCTIVO_DE_INTEGRIDAD_ACADÉMICA_diseño_UDD.pdf) de la Facultad de Diseño.
 
 
 
