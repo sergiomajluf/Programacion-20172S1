@@ -34,7 +34,8 @@
 
 ## Video Obligatorio
 
-* [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales) Este contenido requiere crear una cuenta gratuita en Acamica.com
+* [Estructuras de Control](https://www.acamica.com/clases/370/programacion-creativa-con-processing/estructuras-de-control-condicionales) - LINK ACTUALIZADO. Este contenido requiere crear una cuenta gratuita en Acamica.com
+
 
 
 
