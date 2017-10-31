@@ -27,10 +27,10 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 - **17 de Octubre - Primera Clase**
 - 24 de Octubre - **Entrega ClonArte**
 - 31 de Octubre
-- 7 de Noviembre - **Entrega de lo simple a lo complejo a lo simple**
-- 14 de Noviembre - **Entrega 4 composiciones**
+- 7 de Noviembre
+- 14 de Noviembre - **Entrega de lo simple a lo complejo a lo simple**
 - 16 de Noviembre **(¡jueves!)**
-- 21 de Noviembre
+- 21 de Noviembre - **Entrega 4 composiciones**
 - 23 de Noviembre **(¡jueves!)**
 - 28  de Noviembre **Examen**
 
