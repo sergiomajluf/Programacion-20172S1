@@ -13,14 +13,14 @@
 
 * **02 Ejercicio** 20%
   **de lo simple a lo complejo a lo simple**
-  Martes 07 de Noviembre, 08:30AM
+  Martes 14 de Noviembre, 08:30AM
   Subir archivos [en esta carpeta Dropbox](https://www.dropbox.com/request/PTT7oICvpKhlj2FOTDrO)
 
 
 * **03 Ejercicio** 20%
   **4 composiciones**
 
-  Martes 14 de Noviembre, 08:30AM
+  Martes 21 de Noviembre, 08:30AM
   Subir archivos [en esta carpeta Dropbox](https://www.dropbox.com/request/2psmpnQmiJopxBJeetR9)
 
 

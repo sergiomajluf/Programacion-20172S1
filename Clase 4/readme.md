@@ -30,26 +30,22 @@
 
 
 
-# Ejercicio 03:  cuatro composiciones
+# Entrega 02: de lo simple a lo complejo a lo simple
 
-**Ejercitar 4 composiciones visuales** y en cada una explorar diferentes variantes a partir del uso imágenes, tipografías y que se sustente en lo aprendido hasta ahora en el curso. Tamaño de 600x600 pixeles.
-
-Revisar estas [referencias formales](https://es.pinterest.com/pin/700098704543368939/?lp=true) para iniciar la exploración.
-
-Recuerden comentarios de apertura, en línea al código, formato en nombre de archivo, y por sobre todo, expresividas plástica.
+Desarrollar una composición gráfica, tamaño de 720x480 pixeles, donde se utilicen creativamente:
 
 ```
-* PImage
-* PFont
-* Array
-* For Loops
-* Eventos, etc.
+* variables
+* parámetros
+* estructura if/else
+* Al menos 1 evento de mouse y 1 evento de teclado
 ```
 
-**Formato de entrega:** crear cada una de las cuatro composiciones en su respectiva carpeta. Agruparlas todas bajo una única carpeta llamada "apellido-nombre", enviándola un archivo comprimido `[apellido-nombre].zip`
+**Formato de entrega:**
+crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
 
 **Dónde entregar:**
-Ver [calendario de Entregas](https://github.com/sergiomajluf/Programacion-Diseno-UDD/blob/master/Entregas.md) para fechas y carpeta de subida en Dropbox
+Ver [calendario de Entregas](https://github.com/sergiomajluf/Programacion-20172S2/blob/master/Entregas.md) para fechas y carpeta de subida en Dropbox
 
-**Evaluación:** Entregas tardías bajan 1 puntos.
-
+**Evaluación:**
+Entregas tardías bajan 1 puntos.
