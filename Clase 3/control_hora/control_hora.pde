@@ -13,6 +13,8 @@ float difS;
 float difM;
 float difH;
 
+color miColor;
+
 
 void setup() {
   size(720, 300);
@@ -32,8 +34,11 @@ void draw() {
   int s = second();  // Values from 0 - 59
   int m = minute();  // Values from 0 - 59
   int h = hour();    // Values from 0 - 23
-
-  background(s*4.25, m*4.25, h*10.6);
+  
+  // define un color en base al tiempo
+  miColor = color(s*4.25, m*4.25, h*10.6);
+  
+  background(miColor);
 
 
   // Dibuja las divisones verticales de s, m y h
@@ -86,7 +91,7 @@ void draw() {
   }
 
   // Dibujamos rect negros, para darle contraste al texto
-  fill(0); 
+  fill(miColor); 
   noStroke();
   rect(posS+difS, 10, 30, 20);
   rect(posM+difM, 10+(height/3), 30, 20);
