@@ -7,7 +7,8 @@
  */
 
 float divHora, divMin, divSeg;
-
+boolean recording;
+int a=0;
 // creamos variable para asignar diferencia de posición
 float difS;
 float difM;
@@ -17,7 +18,7 @@ color miColor;
 
 
 void setup() {
-  size(720, 300);
+  size(800, 800);
   // Vamos a dibujar cada minuto y cada segundo
   // Pero lo haremos en relación al tamaño del sketch
   // Por eso, dividimos el ancho, por las horas y minutos 
@@ -34,17 +35,17 @@ void draw() {
   int s = second();  // Values from 0 - 59
   int m = minute();  // Values from 0 - 59
   int h = hour();    // Values from 0 - 23
-  
+
   // define un color en base al tiempo
   miColor = color(s*4.25, m*4.25, h*10.6);
-  
+
   background(miColor);
 
 
   // Dibuja las divisones verticales de s, m y h
   stroke(255, 200);
 
-  for (int i=0; i<60; i++) {
+  for (int i=0; i<62; i++) {
     // segundos
     strokeWeight(0);
     line(divSeg*i, 0, divSeg*i, height/3);
@@ -111,4 +112,29 @@ void draw() {
   line(posM, height/3, posM, 2*height/3);
   strokeWeight(6);  
   line(posH, 2*height/3, posH, height);
+
+
+  if (recording) {
+
+    if (frameCount % 5 == 0) {
+      saveFrame("reloj-####.png");
+    }
+  }
+}
+
+
+void keyPressed() {
+  if (key == 'r') {
+    if (recording) {
+      println("Recording stopped.");
+      recording = false;
+    } else {
+      println("Recording started.");
+      recording = true;
+    }
+  } else if (key == 'q') {
+    if (recording) {
+    }
+    exit();
+  }
 }
